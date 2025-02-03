@@ -1,4 +1,4 @@
-# Document Q&A Bot
+# Document Q&A Bot - BY VIDUSHI SHUKLA ( vidushishukla23@gmail.com)
 
 This project is a Document Q&A Bot that allows users to upload PDF documents and ask questions about the content of the documents. The bot uses the OpenAI API to extract data from the PDFs and provide responses.
 Create a virtual enviornment
