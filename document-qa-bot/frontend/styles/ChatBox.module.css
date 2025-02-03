@@ -1,0 +1,35 @@
+.chatContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.inputBox {
+    width: 300px;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.askButton {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.askButton:hover {
+    background-color: #1e7e34;
+}
+
+.answer {
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
